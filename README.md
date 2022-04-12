@@ -9,10 +9,11 @@
 
 
 ## Projects
-###Completed
+
+### Completed
 - **Predict Bike-Sharing Patterns**: Build a neural network in NumPy to predict bike-sharing rides.
 
-###To be completed:
+### To be completed:
 - **Landmark Classification & Tagging for Social Media:** Build a CNN with PyTorch to classify landmarks.
 - **TV Script Generation:** Build recurrent networks and long short-term memory networks with PyTorch; perform sentiment
 analysis and use recurrent networks to generate new text from TV scripts.

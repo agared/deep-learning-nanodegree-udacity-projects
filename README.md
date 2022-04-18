@@ -10,7 +10,7 @@
 
 ## Projects
 
-### Completed
+### Completed:
 - **Predict Bike-Sharing Patterns**: Build a neural network in NumPy to predict bike-sharing rides.
 
 ### To be completed:
